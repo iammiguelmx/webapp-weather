@@ -1,3 +1,12 @@
+# ==============================================================
+# Author: Miguel Camacho
+# Email: miguel.cam.mx@gmail.com
+# Twitter: @elmiguelmx
+#
+# ==============================================================
+
+# -*- coding: utf-8 -*-
+
 import requests
 import configparser
 from flask import Flask, render_template, request
